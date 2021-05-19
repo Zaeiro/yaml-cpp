@@ -1,3 +1,8 @@
 build/
 /tags
 /bazel-*
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
